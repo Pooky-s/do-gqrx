@@ -1,4 +1,4 @@
-# docker-gqrx
+# do-gqrx
 [GQRX](https://gqrx.dk) SDR software running inside Docker
 
 ## Summary
